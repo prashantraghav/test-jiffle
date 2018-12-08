@@ -1,0 +1,16 @@
+.report{
+    color: white;
+}
+
+.report .report-ques{
+    display: flex;
+}
+
+.report .report-ques div{
+    padding: 10px 20px;
+}
+
+
+.report .report-ques .text{
+    width: 210px;
+}
